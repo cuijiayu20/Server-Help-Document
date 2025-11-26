@@ -8,6 +8,15 @@ PyCharm SSH 远程开发
 
 PyCharm 支持通过 SSH 连接到远程服务器进行开发和调试。
 
+.. warning::
+
+   **Windows 用户注意**
+   
+   由于文件目录结构兼容性问题，**Windows 系统下的 PyCharm 无法直接通过 SSH 连接服务器进行远程开发**。
+   建议 Windows 用户使用 :doc:`best_practices` 中推荐的"本地开发 + 上传运行"模式。
+   
+   以下配置指南主要适用于 Mac/Linux 用户。
+
 配置 SSH 连接
 ~~~~~~~~~~~~~
 

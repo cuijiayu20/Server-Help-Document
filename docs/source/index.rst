@@ -17,6 +17,7 @@
    console_login
    rental_server
    gpu_selection
+   best_practices
    instance_management
    server_login
    development_guide
