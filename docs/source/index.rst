@@ -14,7 +14,8 @@
    :maxdepth: 2
    :caption: 内容:
 
-   login
+   console_login
+   server_login
    common_operations
    troubleshooting
 
