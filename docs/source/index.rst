@@ -18,6 +18,7 @@
    rental_server
    instance_management
    server_login
+   development_guide
    common_operations
    troubleshooting
 
