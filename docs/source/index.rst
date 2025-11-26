@@ -15,6 +15,7 @@
    :caption: 内容:
 
    console_login
+   rental_server
    server_login
    common_operations
    troubleshooting
