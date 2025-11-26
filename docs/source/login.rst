@@ -9,7 +9,7 @@
 1. 访问捷智算官网：`https://www.gogpu.cn <https://www.gogpu.cn>`_
 2. 点击右上角的 **“登录/注册”** 按钮，或者点击 **“控制台”**。
 
-   .. image:: _static/console_button.png
+   .. image:: images/console_button.png
       :alt: 控制台按钮
       :align: center
       :scale: 50%
