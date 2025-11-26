@@ -16,6 +16,7 @@
 
    console_login
    rental_server
+   instance_management
    server_login
    common_operations
    troubleshooting
